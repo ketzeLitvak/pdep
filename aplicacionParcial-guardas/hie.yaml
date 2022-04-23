@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "aplicacionParcial-guardas:lib"
+
+    - path: "./test"
+      component: "aplicacionParcial-guardas:test:aplicacionParcial-guardas-test"

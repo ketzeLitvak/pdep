@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "maderera:lib"
+
+    - path: "./test"
+      component: "maderera:test:maderera-test"

@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "ejBasico:lib"
+
+    - path: "./test"
+      component: "ejBasico:test:ejBasico-test"
